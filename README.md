@@ -6,7 +6,7 @@
 * a set menu for settings
 * design 3D casing
 * print 3D Case
-* design own circuit with ESP8266 and MAX6675 chips on Board an Plugin for OLED
+* design own circuit with ESP8266 and MAX6675 chips on Board and Plugin for OLED
 
 # Credentials
 * [ESP8266 MAX6675 Thermocouple Interface Library](http://www.nefastor.com/esp8266-max6675-thermocouple-library/)
